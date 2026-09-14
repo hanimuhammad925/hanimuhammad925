@@ -1,24 +1,114 @@
-# 💫 About Me:
-Hi there! 👋 I'm Muhammad Hani Lakhani<br><br>💻 Full-Stack Developer passionate about building scalable web applications.<br>🤖 AI & Machine Learning Enthusiast exploring intelligent software solutions.<br>🎓 BS Computer Science Student at KIET University.<br>🚀 Always learning, building, and solving real-world problems through technology.<br><br>🔭 I’m currently working on AI & Machine Learning projects and Full-Stack Web Development.<br><br>🤝 I’m looking to collaborate on Open Source, AI, and Full-Stack Development projects.<br><br>🌱 I’m currently learning Deep Learning, Generative AI, LLMs, and Cloud Technologies.<br><br>💬 Ask me about Python, React, JavaScript, C#, Machine Learning, APIs, and SQL.<br><br>📫 Reach me at: mohdhani447@gmail.com<br><br>⚡ Fun fact: Every new project teaches me something I didn't know yesterday.<br><br><br>💻 Languages: Python | JavaScript | C# | HTML | CSS | SQL<br><br>⚛️ Frontend: React | HTML5 | CSS3 | JavaScript<br><br>⚙️ Backend: Python | REST APIs<br><br>🗄️ Database: MS SQL | MySQL | Firebase<br><br>🤖 AI/ML: NumPy | Pandas | Scikit-learn | OpenCV | NLTK | Matplotlib<br><br>🛠️ Tools: Git | GitHub | VS Code | Visual Studio<br><br><br>✔ Full-Stack Development<br>✔ Artificial Intelligence<br>✔ Machine Learning<br>✔ Building Real-World Projects<br>✔ Open Source Contributions<br><br>
+# Muhammad Hani Lakhani
 
+### Building intelligent systems at the intersection of AI & Software Engineering
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Hani Lakhani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdhani447@gmail.com) 
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=databricks&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=probot&logoColor=white)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hanimuhammad925&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=hanimuhammad925&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hanimuhammad925&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hanimuhammad925&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hanimuhammad925&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hani%20Lakhani-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hani-lakhani/)
+[![Gmail](https://img.shields.io/badge/Email-mohdhani447%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohdhani447@gmail.com)
 
 ---
-[![](https://komarev.com/ghpvc/?username=hanimuhammad925&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🤖 Focused on **AI Engineering, Generative AI, RAG, and Agentic AI**, building intelligent applications that combine LLMs with real software systems.
+
+- 🏢 Currently gaining hands-on industry exposure as an **AI Intern at Systems Limited**, working across Machine Learning and Generative AI concepts and applications.
+
+- 🚀 Built **Aevora**, an AI-powered conversational workspace integrating **LLMs, document intelligence, RAG, semantic retrieval, vector storage, tool calling, and agentic workflows**.
+
+- 🧠 Developed a strong Machine Learning foundation through **scikit-learn workflows, preprocessing, classification, model evaluation, pipelines, cross-validation, and hyperparameter tuning**.
+
+- ⚙️ Building AI backends using **Python, FastAPI, REST APIs, Pydantic, Gemini API, and ChromaDB**, while exploring production-oriented AI engineering practices.
+
+- 🔗 Currently going deeper into **LangChain, advanced retrieval, AI evaluation, LangGraph, stateful agents, and multi-agent systems**.
+
+- 🎓 Pursuing a **Bachelor of Science in Computer Science at KIET**.
+
+---
+
+## ✨ What I'm Building Toward
+
+> **AI systems that don't just generate responses — but retrieve knowledge, use tools, make decisions, and solve real problems.**
+
+My current engineering journey revolves around:
+
+`LLM Applications` • `RAG Systems` • `AI Agents` • `Semantic Search` • `AI Automation` • `Production AI`
+
+---
+
+# 🛠️ Engineering Stack
+
+## 🧠 Generative AI & Intelligent Systems
+
+![LLMs](https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge&logo=probot&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge&logo=semanticweb&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-0D1117?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-0D1117?style=for-the-badge&logo=dependabot&logoColor=white)
+
+## ⚡ AI Frameworks & Backend
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-0D1117?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-0D1117?style=for-the-badge&logo=pydantic&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logo=databricks&logoColor=white)
+
+## 📊 Machine Learning & Data
+
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=white)
+
+`Classification` • `Preprocessing` • `Feature Scaling` • `Pipelines` • `GridSearchCV` • `Cross-Validation` • `Model Evaluation`
+
+## 💻 Software Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🗄️ Databases & Developer Tools
+
+![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+# 🚀 Featured Build
+
+## Aevora — AI-Powered Conversational Workspace
+
+Aevora brings multiple AI capabilities together inside a single conversational experience.
+
+**Core capabilities**
+
+`LLM Conversations`  
+`Document Intelligence`  
+`Retrieval-Augmented Generation`  
+`Semantic Retrieval`  
+`ChromaDB Vector Storage`  
+`Tool / Function Calling`  
+`Agentic Workflows`  
+`FastAPI Backend`
+
+> Built as part of my journey from understanding individual AI concepts to engineering complete AI-powered applications.
+
+---
